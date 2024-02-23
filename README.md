@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @Gabriel-32
+- 👋 Hi, I'm @Gabriel
 - 👀 I'm interested in learning more about the huge world of technology.
 - 🌱 I'm currently learning Git and Github, MySQL, among other topics related to programming.
 - 💞️ I try to collaborate on projects that can bring knowledge to me and help other people.
